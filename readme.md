@@ -15,10 +15,10 @@ cd humanchain-incident-log-api
 2. Install Dependencies
 npm install
 3. Set Up Environment Variables
-Create a .env file in the root directory with the following contents:
-PORT=5000
-MONGODB_URI=your_mongodb_connection_string
-Replace your_mongodb_connection_string with your actual MongoDB URI.
+Create a .env file in the root directory with the following contents:<br>
+PORT=5000<br>
+MONGODB_URI=your_mongodb_connection_string<br>
+Replace your_mongodb_connection_string with your actual MongoDB URI.<br>
 ________________________________________
 Running the Server
 Start the development server by running:
